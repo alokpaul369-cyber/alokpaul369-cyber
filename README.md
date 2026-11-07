@@ -50,16 +50,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alokpaul369-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokpaul369-cyber&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=alokpaul369-cyber&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+### 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alokpaul369-cyber&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alokpaul369-cyber/alokpaul369-cyber/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/alokpaul369-cyber/alokpaul369-cyber/output/github-snake.svg" alt="Contribution snake animation" />
+  </picture>
 </p>
 
 ---
