@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok Paul</h1>
-<h3 align="center">A student from Bangladesh 🇧🇩 learning C++ and MERN Stack Web Development</h3>
+<h3 align="center">MERN FullStack Developer | Student from Bangladesh 🇧🇩 | Learning C++</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alokpaul369-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
