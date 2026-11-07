@@ -1,5 +1,15 @@
-<h1 align="center">Hi 👋, I'm Alok Paul</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7f5af0&height=180&section=header&text=Alok%20Paul&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+</p>
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand" />, I'm Alok Paul</h1>
 <h3 align="center">MERN FullStack Developer | Student from Bangladesh 🇧🇩 | Learning C++</h3>
+
+<p align="center">
+  <a href="https://github.com/alokpaul369-cyber">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+FullStack+Developer+%F0%9F%9A%80;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Solving+problems+with+C%2B%2B+%F0%9F%92%BB;Always+learning%2C+always+building+%F0%9F%8C%B1" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alokpaul369-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -62,3 +72,7 @@
   <a href="https://www.facebook.com/alokpal.alpha" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a></p>
 
 <p align="center">⭐ Thanks for visiting my profile! ⭐</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7f5af0,100:0e75b6&height=120&section=footer" alt="footer" />
+</p>
